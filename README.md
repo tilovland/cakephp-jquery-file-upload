@@ -10,7 +10,7 @@ This is a **Cakephp 4.x** vendor/plugin for blueimp jquery file upload widget ht
 **1)** Installation is done by composer: add the following into your main composer.json (inside require) and then run `composer update`
 
 ```
-"hashmode/cakephp-jquery-file-upload": "~1.0"
+"tilovland/cakephp_jquery_file_upload": "~1.0"
 ```
 
 To use the css and js files from the original library, they are being copied to plugin's webroot directory: for that inside your application's main `composer.json` the following should be added
