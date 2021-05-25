@@ -1,6 +1,6 @@
 {
     "name": "tilovland/cakephp-jquery-file-upload",
-    "description": "Cakephp 3.x Jquery File Upload",
+    "description": "Cakephp 4.x Jquery File Upload",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "jquery", "file-upload" ],
     "require": {
